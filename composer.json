@@ -17,9 +17,9 @@
   "require": {
     "msp/module-notifier": "0.1.0",
     "msp/module-notifier-core-adapters": "0.1.0",
-    "msp/module-admin-push-adapter": "0.1.0",
-    "msp/module-template": "0.1.0",
-    "msp/module-queue": "0.1.0",
-    "msp/module-event": "0.1.0"
+    "msp/module-notifier-admin-push-adapter": "0.1.0",
+    "msp/module-notifier-template": "0.1.0",
+    "msp/module-notifier-queue": "0.1.0",
+    "msp/module-notifier-event": "0.1.0"
   }
 }
