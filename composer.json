@@ -13,6 +13,9 @@
       "email": "giacomo.mirabassi@magespecialist.it"
     }
   ],
+  "replace": {
+    "msp/notify": "*"
+  },
   "license": "OSL-3.0",
   "require": {
     "msp/module-notifier": "0.1.0",
