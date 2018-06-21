@@ -17,7 +17,7 @@
   },
   "license": "OSL-3.0",
   "require": {
-    "msp/module-notifier": "0.1.4",
+    "msp/module-notifier": "0.1.6",
     "msp/module-notifier-core-adapters": "0.1.4",
     "msp/module-notifier-admin-push-adapter": "0.1.2",
     "msp/module-notifier-template": "0.1.2",
